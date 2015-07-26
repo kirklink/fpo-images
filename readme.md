@@ -14,6 +14,7 @@ An example can be found here:
 http://codepen.io/antimatter/pen/emBvPj
 
 Transparent images are returned by specifying the width and height:
+
 http://fpo-images.appspot.com/1920x1080
 
 The application also returns placeholder images (i.e., single color images) 
